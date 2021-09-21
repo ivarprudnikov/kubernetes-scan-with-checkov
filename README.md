@@ -1,7 +1,11 @@
 Scan kubernetes config with Checkov
 ================
 
+[![CI Scanner](https://github.com/ivarprudnikov/kubernetes-scan-with-checkov/actions/workflows/scanner.yml/badge.svg)](https://github.com/ivarprudnikov/kubernetes-scan-with-checkov/actions/workflows/scanner.yml)
+
 An example showing how to scan the Kubernetes config with the Checkov tool.
+
+To see the output check the last build on https://github.com/ivarprudnikov/kubernetes-scan-with-checkov/actions/workflows/scanner.yml
 
 **Prerequisites**
 
