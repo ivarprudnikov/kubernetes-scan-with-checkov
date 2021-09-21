@@ -4,4 +4,5 @@ external-modules-download-path:
 framework: all
 output: cli
 skip-fixes: true
-soft-fail: false
+soft-fail: true
+compact: true
